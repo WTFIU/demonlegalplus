@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{PROJECT_GUID}</ProjectGuid>
+    <ProjectGuid>{B62F49DE-36B3-44E0-849D-54D79DE9EBC1}</ProjectGuid>
     <RootNamespace>DemonLegalPlus</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <MinimumVisualStudioVersion>10.0.40219.1</MinimumVisualStudioVersion>
