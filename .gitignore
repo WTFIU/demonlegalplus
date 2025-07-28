@@ -1,1 +1,12 @@
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ipch
+*.suo
+*.user
+*.vcxproj.user
+*.log
+build/
+.vs/
 
