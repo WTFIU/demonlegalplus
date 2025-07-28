@@ -51,18 +51,15 @@ This mod is made **for competitive players** who respect the game.
 
 ---
 
-## 📦 Folder Structure
+---
 
-DemonLegalPlus/
-├── assets/ # UI graphics, icon (placeholder)
-├── include/ # Future header files
-├── lib/ # MinHook, ImGui go here
-├── src/ # Source code
-│ ├── input_display.cpp
-│ ├── input_display.h
-│ ├── main.cpp
-│ └── utils.cpp
-├── LICENSE.md
-├── README.md
-├── .gitignore
-├── DemonLegalPlus.sln
+## 💬 License & Usage
+
+This project uses a custom license — see [LICENSE.md](LICENSE.md).
+
+---
+
+## 👤 Author
+
+Made by [wtfiu](https://github.com/wtfiu)  
+🛡️ Built for serious players who want fair tools  
